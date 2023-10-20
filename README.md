@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **E-Commerce Website**
 
-- 🌱 I’m currently learning **React, Mobile App, Development**
+- 🌱 I’m currently learning **React, Mobile App Development**
 
 - 💬 Ask me about **PHP, MySQL, NodeJS**
 
@@ -16,6 +16,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/ashdefort" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashdefort" height="30" width="40" /></a>
+<a href="https://instagram.com/ashleydefort" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashleydefort" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ashleydefort" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ashleydefort" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
