@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **E-Commerce Website**
 
-- 🌱 I’m currently learning **React, Mobile App Development**
+- 🌱 I’m currently learning **Mobile App Development**
 
 - 💬 Ask me about **PHP, MySQL, NodeJS**
 
