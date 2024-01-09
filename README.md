@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Ashley Mercado</h1>
-<h3 align="center">A passionate web developer and data science student from Colombia</h3>
+<h3 align="center">A passionate web developer and Mathematics student from Colombia</h3>
 <img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.ded82251e7595f867501ce86d4207f62?rik=Tov7Yi5ENDUWow&pid=ImgRaw&r=0">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashleydefort&label=Profile%20views&color=0e75b6&style=flat" alt="ashleydefort" /> </p>
 
