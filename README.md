@@ -20,4 +20,4 @@ I'm a 18-year-old developer based in Colombia, and I'm passionate about crafting
 
 ## 📫 Contact
 
- For a quick response, DM me on [Instagram](https://www.instagram.com/mirayatech/) or [LinkedIn](https://www.linkedin.com/in/mirayaabrodi/). 
+ For a quick response, DM me on [LinkedIn](www.linkedin.com/in/ashley-mercado-defort). 
