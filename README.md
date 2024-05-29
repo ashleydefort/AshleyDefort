@@ -11,12 +11,6 @@ I'm a 18-year-old developer based in Colombia, and I'm passionate about crafting
 **Backend Development:** `PHP` `NodeJS` 
 
 **Databases:** `MySQL` `MongoDB` 
- 
-## ✨ Fun Facts 
-
-- "Cien Años de Soledad" is my favorite book.
-- As a kid, I wanted to be a dentist.
-- I had a chick named Bolita.
 
 ## 📫 Contact
 
