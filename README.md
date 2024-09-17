@@ -14,4 +14,4 @@ I'm a 19-year-old developer based in Colombia, and I'm passionate about crafting
 
 ## 📫 Contact
 
- For a quick response, DM me on [LinkedIn]:www.linkedin.com/in/ashley-mercado-defort 
+ For a quick response, DM me on [LinkedIn](www.linkedin.com/in/ashley-mercado-defort)
