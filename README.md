@@ -1,17 +1,22 @@
 ### Hey, I'm Ashley 👋🏽  
 
-I'm a 19-year-old developer based in Colombia, and I'm passionate about crafting digital experiences. .
+I'm a **developer based in Colombia** passionate about **building scalable web applications, ERP solutions, and exploring the world of Data Science & AI**.  
 
-## 📦 Toolbox
+💡 Currently working with **Frappe/ERPNext, React, and TypeScript** while diving deeper into **Machine Learning**.  
+🚀 Enthusiastic about **open-source, automation, and crafting efficient digital solutions**.  
 
-**Frontend Development:** `React` `Next.js` `TypeScript` `Tailwind` `JavaScript`
- 
-**Version Control:** `Git` `GitLab` 
+### 🛠 Tech Stack  
 
-**Backend Development:** `PHP` `NodeJS` `Frappe` 
+**Frontend Development:** `React` `Next.js` `TypeScript` `Tailwind CSS` `JavaScript`  
 
-**Databases:** `MySQL` `MongoDB` 
+**Backend Development:** `Frappe` `ERPNext` `Python` `Node.js` `PHP`  
 
-## 📫 Contact
+**Databases:** `MariaDB` `PostgreSQL` `MongoDB`  
 
- For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/ashley-mercado-defort)
+**Version Control & DevOps:** `Git` `GitHub` `GitLab` `Docker`  
+
+**Exploring:** `Machine Learning` `Data Science` `TensorFlow` `Pandas` `NumPy`  
+
+### 📫 Connect with me!  
+
+For a quick response, DM me on **[LinkedIn](https://www.linkedin.com/in/ashley-defort)**.  
