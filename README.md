@@ -2,8 +2,8 @@
 
 I'm a **developer based in Colombia** passionate about **building scalable web applications, ERP solutions, and exploring the world of Data Science & AI**.  
 
-💡 Currently working with **Frappe/ERPNext, React, and TypeScript** while diving deeper into **Machine Learning**.  
-🚀 Enthusiastic about **open-source, automation, and crafting efficient digital solutions**.  
+🍡 Currently working with **Frappe/ERPNext, React, and TypeScript** while diving deeper into **Machine Learning**.  
+🍡 Enthusiastic about **open-source, automation, and crafting efficient digital solutions**.  
 
 ### 🛠 Tech Stack  
 
@@ -17,6 +17,6 @@ I'm a **developer based in Colombia** passionate about **building scalable web a
 
 **Exploring:** `Machine Learning` `Data Science` `TensorFlow` `Pandas` `NumPy`  
 
-### 📫 Connect with me!  
+### 📨 Connect with me!  
 
 For a quick response, DM me on **[LinkedIn](https://www.linkedin.com/in/ashley-defort)**.  
