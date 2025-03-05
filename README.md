@@ -1,6 +1,6 @@
 ### Hey, I'm Ashley 👋🏽  
 
-I'm a **developer based in Colombia** passionate about **building scalable web applications, ERP solutions, and exploring the world of Data Science & AI**.  
+I'm a **full-stack developer based in Colombia** passionate about **building scalable web applications, ERP solutions, and exploring the world of Data Science & AI**.  
 
 🍡 Currently working with **Frappe/ERPNext, React, and TypeScript** while diving deeper into **Machine Learning**.  
 🍡 Enthusiastic about **open-source, automation, and crafting efficient digital solutions**.  
